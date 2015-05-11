@@ -18,6 +18,8 @@ these questions for the same candidate.
 
 1. How do you create a dictionary?
 
+1. What is PEP8? 
+
 ## Intermediate/Advanced Questions
 
 1. How can you improve the following code?
@@ -46,6 +48,8 @@ these questions for the same candidate.
 
 1. What is a generator? What can it be used for?
 
+1. What is a decorator? How is it represented? 
+
 1. How do you reverse a list? Can you come up with at least three ways? 
 
 1. How would you merge two sorted lists? They can be any length, or empty. 
@@ -62,3 +66,24 @@ these questions for the same candidate.
 1. What happens in python if you try to divide by zero?
 
 1. 
+
+
+## More advanced questions
+
+1. What is a descriptor?
+
+answer [https://docs.python.org/2/reference/datamodel.html#descriptors] 
+
+1. What is the GIL? 
+
+1. Do lists and tuples react the same way to hashability?
+
+1. What is a meta class? 
+
+
+
+## Other/related technologies
+
+1. What is a cron job? 
+
+answer [http://www.opsschool.org/en/latest/cron_101.html#what-is-a-crontab]
